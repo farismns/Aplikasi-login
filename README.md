@@ -7,3 +7,4 @@ Alur:
 3. Memvalidasi masukan.
 4. Menampilkan halaman home.
 5. Melakukan pencarian
+6. Melakukan checkout
