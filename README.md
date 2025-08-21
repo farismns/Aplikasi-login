@@ -8,3 +8,4 @@ Alur:
 4. Menampilkan halaman home.
 5. Melakukan pencarian
 6. Melakukan checkout
+7. Memilih metode pembayaran (cash or transfer)
