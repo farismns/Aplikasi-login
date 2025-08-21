@@ -3,5 +3,8 @@ Sebuah aplikasi dengan fitur login
 
 Alur:
 1. Memasukkan email dan password
-2. Memvalidasi masukan.
-3. Menampilkan halaman home.
+2. Autentifikasi code
+3. Memvalidasi masukan.
+4. Menampilkan halaman home.
+5. Melakukan pencarian
+6. Melakukan checkout
